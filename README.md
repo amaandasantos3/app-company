@@ -2,7 +2,7 @@
 
 ## Tecnologias usadas
 
-![Node Js](resources/nodedotjs.svg) ![React Native](resources/react.svg) ![TypeScript](resources/typescript.svg) ![StyledComponent](resources/styledcomponents.svg)
+![Node Js](resources/node-js.png) ![React Native](resources/react.svg) ![TypeScript](resources/typescript.svg) ![StyledComponent](resources/styledcomponents.svg)
 
 O aplicativo consiste em um CRUD de emprsas, tendo as seguintes funcionalidades: crete, update, delete and list.
 
